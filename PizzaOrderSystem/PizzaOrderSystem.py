@@ -1,4 +1,7 @@
+#cvs ve datetime modullerını içe aktardık
 import csv
+from datetime import datetime
+an=datetime.now()
 
 
 class Pizza:
